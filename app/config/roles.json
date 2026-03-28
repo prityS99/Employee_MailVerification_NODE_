@@ -1,0 +1,13 @@
+{
+  "admin": [
+    "admin_dashboard",
+    "read_users",
+    "create_record",
+    "read_record",
+    "update_record",
+    "delete_record"
+  ],
+  "employee": 
+  ["create_record", 
+  "read_record"]
+}
